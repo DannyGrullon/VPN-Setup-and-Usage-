@@ -1,5 +1,5 @@
 <p align="center">
-<img https://www.google.com/url?sa=i&url=https%3A%2F%2Fthebestvpn.uk%2Fprotonvpn-review%2F&psig=AOvVaw3m8AfupfvUXw7S8MvFZMOw&ust=1689887082872000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODDjPfVm4ADFQAAAAAdAAAAABAE"/>
+<img "/>
 </p>
 
 <h1>VPN Setup and Usage</h1>
@@ -19,15 +19,18 @@ This tutorial outlines the prerequisites and installation of setting and using P
 <h2>List of Prerequisites</h2>
 
 - Create a resource group.
-- Create a Windows 10 Virtual Machine with 2-4 Virtual CPUs.
+- Create a Windows 10 Virtual Machine with 2-4 Virtual CPUs
+- Change desired region in Virtual Machine settings.
 - Open Remote Desktop Connection with public IP address from Virtual Machine.
-- Item 4
-- Item 5
+- Download Proton VPN.
+
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/6d920380-2f10-44fa-84a7-b4b4854e7c26)
+
+/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
