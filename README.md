@@ -1,5 +1,5 @@
 <p align="center">
-<img "/>
+![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/4193fe6c-0379-4458-9830-450143a76210)
 </p>
 
 <h1>VPN Setup and Usage</h1>
@@ -27,8 +27,7 @@ This tutorial outlines the prerequisites and installation of setting and using P
 
 <h2>Installation Steps</h2>
 
-<p>
-![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/13255a76-d276-4d3a-812d-c6e1ff2bba3c)
+![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/ad295341-e367-45e3-b887-95ce3679f60e)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -36,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/13255a76-d276-4d3a-812d-c6e1ff2bba3c)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -44,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img s"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
