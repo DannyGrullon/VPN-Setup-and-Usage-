@@ -28,8 +28,7 @@ This tutorial outlines the prerequisites and installation of setting and using P
 <h2>Installation Steps</h2>
 
 <p>
-<img ![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/13255a76-d276-4d3a-812d-c6e1ff2bba3c)
-/>
+![Screenshot 2023-07-19 172732](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/13255a76-d276-4d3a-812d-c6e1ff2bba3c)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
