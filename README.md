@@ -1,7 +1,5 @@
 <p align="center">
-![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/4193fe6c-0379-4458-9830-450143a76210)
-</p>
-
+![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/04da8218-229b-416e-98be-cd96f56635b4)
 <h1>VPN Setup and Usage</h1>
 This tutorial outlines the prerequisites and installation of setting and using ProtonVPN.<br />
 
@@ -43,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img s"/>
+![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/b3c4438e-a6c2-4fda-952c-d4a664e948d4)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
