@@ -1,7 +1,7 @@
 <p align="center">
-![066pfhdQmzHcmyEMaZtToWq-77 v1653509931](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/2668955a-f460-403b-ad96-23ca32e4b4b4)
+<img src=https://imgur.com/h0Hj9Ue
  "/>
-</p>
+<h1>VPN Setup and Usage (Proton VPN)</h1>
 This tutorial outlines the prerequisites and installation of setting and using ProtonVPN.<br />
 
 <h2>Environments and Technologies Used</h2>
