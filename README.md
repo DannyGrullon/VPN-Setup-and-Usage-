@@ -1,6 +1,6 @@
 <p align="center">
-![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/04da8218-229b-416e-98be-cd96f56635b4)
-<h1>VPN Setup and Usage</h1>
+<img src=![image](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/b3313d3d-28fb-4463-9191-7a6236dc9445)"/>
+
 This tutorial outlines the prerequisites and installation of setting and using ProtonVPN.<br />
 
 <h2>Environments and Technologies Used</h2>
