@@ -1,5 +1,6 @@
 <p align="center">
-<img src=![Screenshot 2023-07-19 170830](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/7eb96518-9c42-46ce-a00b-95555f24f669) "/>
+![066pfhdQmzHcmyEMaZtToWq-77 v1653509931](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/2668955a-f460-403b-ad96-23ca32e4b4b4)
+ "/>
 </p>
 This tutorial outlines the prerequisites and installation of setting and using ProtonVPN.<br />
 
