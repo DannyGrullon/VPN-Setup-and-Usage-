@@ -1,5 +1,6 @@
-<p align="center">
-![image](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/85c66584-622f-4654-8475-0cd07d729664)
+![image](https://github.com/DannyGrullon/osticket-prereqs/assets/139714290/8f09da12-e823-4f64-8d73-a9f8f3a629bc)
+
+
 
 
 <h1>VPN Setup and Usage (Proton VPN)</h1>
